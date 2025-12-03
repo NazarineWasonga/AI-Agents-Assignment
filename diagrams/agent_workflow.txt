@@ -1,0 +1,12 @@
+SMART MANUFACTURING AI AGENT WORKFLOW
+
+[Production Sensors & Data] --> [Quality Control Agent] --> [Defect Alerts]
+                                |
+                                v
+                        [Maintenance Agent] --> [Downtime Alerts]
+                                |
+                                v
+                   [Production Scheduling Agent] --> [Optimized Schedule]
+                                |
+                                v
+                         [Management Dashboard]
